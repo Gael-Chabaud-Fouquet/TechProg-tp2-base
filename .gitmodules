@@ -1,0 +1,3 @@
+[submodule "Tools/windows_x64"]
+	path = Tools/windows_x64
+	url = https://github.com/Kode/KoreTools_windows_x64.git

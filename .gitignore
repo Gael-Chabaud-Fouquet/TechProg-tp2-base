@@ -1,0 +1,3 @@
+build/**
+Deployment/**
+!Deployment/keepme
